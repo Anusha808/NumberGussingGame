@@ -24,5 +24,3 @@ An interactive 3D Number Guessing Game developed using Java and JavaFX. The play
    ```bash
    mvn clean javafx:run
    ```
-Anusha Hegde
-[GitHub Profile](https://github.com/Anusha808)
